@@ -9,7 +9,7 @@ const Header = () => {
         Linda Fiveson
       </div>
       <div id="mini-header-text">
-        Weight Counseling & Nutrition
+        Weight Loss & Nutritional Counseling
       </div>
     </div>
   )
