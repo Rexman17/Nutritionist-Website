@@ -1,0 +1,39 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#linda-fiveson {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 1.8em;
+  color: #ffd2d8;
+  padding-top: 5px;
+}
+
+#header-div {
+  background-color: #881348;
+  padding-bottom: 10px;
+  /* padding-top: 10px; */
+}
+
+#mini-header-text {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  font-size: .8em;
+  color: white;
+}
+
+#navBarDiv {
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.7em;
+  display: flex;
+  border-top: 2px solid #ffd2d8;
+  background-color: #881348;
+  color: white;
+  padding: 2px;
+  justify-content: center;
+}
+
+.nav-link {
+  margin: auto;
+}
