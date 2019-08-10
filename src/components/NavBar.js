@@ -1,9 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Route, Link } from "react-router-dom";
+import AboutPage from './AboutPage'
 
 class NavBar extends React.Component {
 
   render (){
+
     const style = {textDecoration: 'none', color: 'white' }
 
     return (
@@ -29,7 +31,3 @@ class NavBar extends React.Component {
 }
 
 export default NavBar;
-
-// <Route path="/" exact component={Index} />
-// <Route path="/about/" component={About} />
-// <Route path="/users/" component={Users} />
