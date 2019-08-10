@@ -18,7 +18,6 @@ const AboutPage = () => {
         </div>
       </div>
       <div class="page-body-container">
-
         <p>{p1}</p>
         <p>{p2}</p>
         <p>{p3}</p>

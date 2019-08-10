@@ -94,3 +94,13 @@ footer {
   font-family: 'Oswald', sans-serif;
   font-size: small;
 }
+
+.abt-page-body-container {
+  padding: 125px 50px;
+  text-align: center;
+}
+
+#contact-box {
+  border: #ffd2d8 groove 10px;
+  padding: 5px;
+}
