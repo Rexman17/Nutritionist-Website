@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 
-#linda-fiveson {
+.header-title {
   font-family: 'Lobster', cursive;
   text-align: center;
   font-size: 1.8em;
@@ -10,9 +10,10 @@ html {
   padding-top: 5px;
 }
 
-#header-div {
+.header-div {
   background-color: #881348;
   padding: 20px 0px;
+  border-top: pink solid;
 }
 
 #mini-header-text {
@@ -84,3 +85,16 @@ footer {
 #footer-address-details p {
   margin: 0;
 }
+
+.page-body-container {
+  padding: 0 20px;
+}
+
+.page-body-container p {
+  font-family: 'Oswald', sans-serif;
+  font-size: small;
+}
+
+/* .header-div {
+  border-top: pink solid;
+} */

@@ -10,6 +10,11 @@ class NavBar extends React.Component {
 
     return (
       <div id="navBarDiv">
+      <div class="nav-link">
+        <Link to="/" style={style}>
+          Home
+        </Link>
+      </div>
         <div class="nav-link">
           <Link to="/about" style={style}>
             About
