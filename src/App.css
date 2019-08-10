@@ -65,3 +65,22 @@ html {
 #arrow-icon {
   margin: 4px;
 }
+
+footer {
+  background-color: #881348;
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  width: 100%;
+}
+
+#li-weight-counseling, #footer-address-details {
+  font-family: 'Oswald', sans-serif;
+  font-size: small;
+}
+
+#footer-address-details p {
+  margin: 0;
+}
