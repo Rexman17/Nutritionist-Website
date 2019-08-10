@@ -5,12 +5,12 @@ const Footer = () => {
   return (
     <footer>
       <div id="li-weight-counseling">
-        LONG ISLAND WEIGHT COUNSELING, INC.
+        NEW YORK WEIGHT COUNSELING, INC.
       </div>
       <div id="footer-address-details">
-        633 JERICHO TURNPIKE
-        SYOSSET, N.Y. 11791
-        <p>516-496-2300</p>
+        555 Somewhere Turnpike
+        City, N.Y. 11791
+        <p>516-333-3333</p>
       </div>
     </footer>
   )

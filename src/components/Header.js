@@ -5,9 +5,9 @@ const Header = () => {
   return (
     <div class="header-div">
       <div class="header-title">
-        Linda Fiveson
+        Jane Doe
       </div>
-      <div id="mini-header-text">
+      <div class="mini-header-text">
         Weight Loss & Nutritional Counseling
       </div>
     </div>

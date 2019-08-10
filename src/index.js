@@ -5,6 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { BrowserRouter as Router, Route} from "react-router-dom";
 import AboutPage from '../src/components/AboutPage'
+import Testimonials from './components/Testimonials'
 import HomePageBodyContainer from '../src/containers/HomePageBodyContainer'
 
 ReactDOM.render(
@@ -12,6 +13,7 @@ ReactDOM.render(
     <div>
       <Route exact path="/" component={App} />
       <Route path="/about" component={AboutPage} />
+      <Route path="/testimonials" component={Testimonials} />
     </div>
   </Router>,
   document.getElementById('root')

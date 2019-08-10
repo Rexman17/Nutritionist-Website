@@ -16,7 +16,7 @@ html {
   border-top: pink solid;
 }
 
-#mini-header-text {
+.mini-header-text {
   font-family: 'Oswald', sans-serif;
   text-align: center;
   font-size: .8em;
@@ -87,14 +87,10 @@ footer {
 }
 
 .page-body-container {
-  padding: 0 20px;
+  padding: 20px 20px;
 }
 
-.page-body-container p {
+.page-body-container p, span {
   font-family: 'Oswald', sans-serif;
   font-size: small;
 }
-
-/* .header-div {
-  border-top: pink solid;
-} */
